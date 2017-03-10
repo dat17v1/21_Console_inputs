@@ -8,7 +8,7 @@ One way of solving this is by using
 
 <pre>    
     System.out.print("Enter something:");
-    <mark>String input = System.console().readLine();</mark>
+    <b>String input = System.console().readLine();</b>
     System.out.println("You wrote: " + input);
 </pre>     
 
