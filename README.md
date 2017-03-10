@@ -6,11 +6,11 @@ So far we only printed something out with ```` System.out.println(); ```` , but 
 
 One way of solving this is by using 
 
-````Java    
+<pre>    
     System.out.print("Enter something:");
-    String input = System.console().readLine();
+    <mark>String input = System.console().readLine();</mark>
     System.out.println("You wrote: " + input);
-````     
+</pre>     
 
 Other ways of doing the same would be to use a: 
 1. BufferedReader class    
