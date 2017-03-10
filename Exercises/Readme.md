@@ -26,10 +26,12 @@ In the Console you should ask:
 
 Then you should print to the console the details of you new build car.
 
-2 . Change your program into being able to ask you for building 3 cars.    
+2 . Change your program into being able to ask you for 3 cars.    
 The cars should go into an array (or arraylist, if you preferre).   
 
 Print the all to the console.
+
+=======
 
 
 
