@@ -12,7 +12,10 @@ One way of solving this is by using
     System.out.println("You wrote: " + input);
 </pre>     
 
-Other ways of doing the same would be to use a: 
-1. BufferedReader class    
+Other ways of doing the same would be to use a:    
+
+* BufferedReader class    
 or a: 
-2. Scanner Class
+* Scanner Class
+
+We will look at that later this semester.
