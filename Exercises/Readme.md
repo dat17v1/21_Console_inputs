@@ -31,7 +31,6 @@ The cars should go into an array (or arraylist, if you preferre).
 
 Print the all to the console.
 
-=======
 
 
 
