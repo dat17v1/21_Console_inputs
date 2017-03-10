@@ -13,8 +13,7 @@ You can download it in many ways, but the easiest (in the long run) is by **_clo
 Then you will have the code on your computer, and you can work with it.    
 
 ## Create the program
-
-1. Create a program that asks the user to build a Car.    
+1 . Create a program that asks the user to build a Car.    
 
 In the Console you should ask:
 ````    
@@ -27,7 +26,7 @@ In the Console you should ask:
 
 Then you should print to the console the details of you new build car.
 
-2. Change your program into being able to ask you for building 3 cars.    
+2 . Change your program into being able to ask you for building 3 cars.    
 The cars should go into an array (or arraylist, if you preferre).   
 
 Print the all to the console.
